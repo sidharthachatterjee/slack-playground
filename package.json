@@ -1,0 +1,16 @@
+{
+  "name": "slack-playground",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@slack/web-api": "^5.0.1",
+    "dotenv": "^8.0.0",
+    "moment-timezone": "^0.5.25"
+  }
+}
